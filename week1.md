@@ -16,7 +16,7 @@ Q: Which CSS Selector is the most specific?
 * Class
 * Tagname
 * Id
-* *
+* `*`
 
 #### MC3
 
